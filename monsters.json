@@ -5999,6 +5999,54 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "Ted",
+      "age": 2,
+      "description": "cute doggo",
+      "id": 1001
+    },
+    {
+      "name": "Ted",
+      "age": "2",
+      "description": "super poodle",
+      "id": 1002
+    },
+    {
+      "name": "Teddy",
+      "age": "2.5",
+      "description": "super poodle v2",
+      "id": 1003
+    },
+    {
+      "name": "Andy Wang",
+      "age": "21",
+      "description": "Adult",
+      "id": 1004
+    },
+    {
+      "name": "Andy Wang",
+      "age": "21",
+      "description": "Adult",
+      "id": 1005
+    },
+    {
+      "name": "Andy Wang",
+      "age": "21",
+      "description": "Adult",
+      "id": 1006
+    },
+    {
+      "name": "Andy Wang",
+      "age": "21",
+      "description": "Adult",
+      "id": 1007
+    },
+    {
+      "name": "HEYYY",
+      "age": "8888",
+      "description": "hello world!",
+      "id": 1008
     }
   ]
 }
